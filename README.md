@@ -1,54 +1,66 @@
 # IBM_Money_Coach-Agent
-Project Overview
-FinanceAdvisor is an AI-powered financial advisory agent built using IBM watsonx and the llama-3-3-70b-instruct model. This project leverages agentic AI capabilities to provide intelligent financial guidance and recommendations.
+# FinanceAdvisor - AI-Powered Financial Advisory Agent
 
-Features
-AI-Powered Financial Advice: Uses advanced LLM capabilities to analyze financial queries
+## Overview
+FinanceAdvisor is an agentic AI solution built on IBM watsonx that provides intelligent financial guidance using the llama-3-3-70b-instruct model.
 
-Conversational Interface: Natural language interaction for financial questions
+## Features
+### Core Capabilities
+- AI-driven financial recommendations
+- Natural language conversation interface
+- Personalized investment advice
 
-Quick Start Questions: Pre-configured prompts to help users begin their financial inquiries
+### Technical Features
+- Pre-configured quick-start questions
+- ReAct architecture implementation
+- Dynamic response generation
 
-LangGraph Framework: Built using the ReAct architecture for optimal performance
+## Technology Stack
+### AI Components
+- **Base Model**: llama-3-3-70b-instruct
+- **Framework**: LangGraph
+- **Architecture**: ReAct
 
-Technology Stack
-AI Model: llama-3-3-70b-instruct
+### Platform
+- IBM watsonx
+- IBM Cloud deployment
 
-Platform: IBM watsonx on IBM Cloud
+## Getting Started
+### For Users
+1. Access the agent interface
+2. Use sample questions or type custom queries
+3. Receive tailored financial advice
 
-Framework: LangGraph with ReAct architecture
+### Sample Prompts
+- "How should I allocate $10,000 in investments?"
+- "Explain Roth IRA vs traditional IRA"
+- "Create a debt repayment plan for $25,000"
+- "Tax-efficient investment strategies for 2024"
 
-Getting Started
-To interact with FinanceAdvisor:
+## Configuration
+### Agent Settings
+- Model: llama-3-3-70b-instruct
+- Framework: LangGraph
+- Architecture: ReAct
 
-Access the deployed agent through the IBM Cloud interface
+### Advanced Settings
+- Custom financial knowledge integration
+- Response optimization parameters
 
-Use the sample questions or type your own financial queries
+## Project Status
+Current version: Prototype 1.0  
+Next milestones:
+- Integration with financial APIs
+- Enhanced personalization features
 
-Receive AI-generated financial advice and recommendations
+## License
+MIT License - See [LICENSE](LICENSE) file for details
 
-Sample Questions
-Try these starter questions:
+## Contributing
+Please open an issue for:
+- Feature requests
+- Bug reports
+- Improvement suggestions
 
-"How should I allocate my investment portfolio?"
-
-"What are some tax-saving strategies for this year?"
-
-"Explain compound interest in simple terms"
-
-"Help me create a monthly budget plan"
-
-Configuration Details
-The agent is configured with:
-
-Advanced AI model parameters
-
-Custom financial knowledge integration
-
-Optimized response generation settings
-
-Project Status
-Currently deployed as a prototype on IBM Cloud with ongoing improvements planned.
-
-License
-This project is available under the MIT License.
+## Contact
+For inquiries, contact the project maintainers through GitHub.
