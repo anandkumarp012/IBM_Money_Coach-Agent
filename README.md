@@ -1,5 +1,4 @@
 # IBM_Money_Coach-Agent
-# FinanceAdvisor - AI-Powered Financial Advisory Agent
 
 ## Overview
 FinanceAdvisor is an agentic AI solution built on IBM watsonx that provides intelligent financial guidance using the llama-3-3-70b-instruct model.
